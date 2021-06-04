@@ -262,32 +262,20 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [x] Cracking the Facebook Coding Interview:
     - [x] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
     - [x] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
-- [ ] Prep Course:
+- [X] Prep Course:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
-        - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
-    - [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
-        - A free Python centric data structures and algorithms course.
-    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
-        - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
-    - [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
+    - [x] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
 ## Pick One Language for the Interview
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
-
-- C++
 - Java
-- Python
 
 You could also use these, but read around first. There may be caveats:
 
 - JavaScript
-- Ruby
-
-Here is an article I wrote about choosing a language for the interview: [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
 
 You need to be very comfortable in the language and be knowledgeable.
 
@@ -333,18 +321,6 @@ If you read through one of these, you should have all the data structures and al
 
 [Additional language-specific resources here.](programming-language-resources.md)
 
-### C++
-
-I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
-
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-- [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
-    - Rich and detailed collection of Data Structures and Algorithms
-    - Great for first-timers
-
-If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
-
 ### Java
 
 - [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
@@ -359,14 +335,6 @@ OR:
     - used as optional text for CS intro course at UC Berkeley
     - see my book report on the Python version below. This book covers the same topics
 
-### Python
-
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-    - by Goodrich, Tamassia, Goldwasser
-    - I loved this book. It covered everything and more
-    - Pythonic code
-    - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-- [ ] [Open Data Structures in Python](https://opendatastructures.org/ods-python.pdf)
 
 ## Before you Get Started
 
